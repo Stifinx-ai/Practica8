@@ -1,5 +1,4 @@
 //Ávila Flores Ahmed
-// ejercicio3
 //programa que pida al usuario un número, y muestre el mensaje "has introducido el numero ---"... mostrar la suma de los números y la cantidad de números introducidos.
 
 #include <stdio.h>
