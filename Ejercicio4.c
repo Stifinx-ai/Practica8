@@ -1,5 +1,4 @@
 //Ávila Flores Ahmed
-// ejercicio4
 //programa que solicite números al usuario hasta que se hayan introducido 10 números o la suma de todos los números leídos sea mayor que 100.
 
 #include <stdio.h>
